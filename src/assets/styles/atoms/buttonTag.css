@@ -1,0 +1,18 @@
+.custom-button {
+    font-family: "PoppinsRegular";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 8px 20px!important;
+    background: #3CC754!important;
+    border: none!important;
+    box-shadow: none!important;
+}
+
+.custom-button:hover {
+    background: #73d683!important;
+}

@@ -1,0 +1,14 @@
+.input-with-icon {
+    position: relative;
+    margin: 10px 0;
+}
+
+.input-with-icon .custom-input {
+    padding-right: 35px;
+}
+
+.input-with-icon .input-icon {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}

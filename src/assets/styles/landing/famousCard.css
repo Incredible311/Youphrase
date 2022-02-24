@@ -1,0 +1,61 @@
+.famous-card {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 44px rgba(0, 0, 0, 0.03);
+    border-radius: 10px;
+    padding: 25px;
+    min-width: 300px;
+    height: 430px;
+    display: grid;
+    justify-content: center;
+    margin: 0 10px;
+}
+
+.famous-card-icon {
+    height: 200px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.famous-card-title {
+    font-family: "PoppinsRegular";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height, or 120% */
+
+    text-align: center;
+
+    color: #262525;
+}
+
+.famous-card-description {
+    font-family: "PoppinsRegular";
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+
+    text-align: center;
+
+    color: #787676;
+}
+
+.famous-card-price {
+    font-family: "PoppinsRegular";
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 18px;
+    /* identical to box height, or 100% */
+
+    text-align: center;
+
+    color: #3CC754;
+
+}
